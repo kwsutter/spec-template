@@ -1,5 +1,3 @@
-
-:sectnums:
 == Introduction
 
 The Jakarta Wombat specification defines an API for managing wombats,
