@@ -1,0 +1,28 @@
+//
+// Copyright (c) 2017-2019 Contributors to the Eclipse Foundation
+//
+
+= Jakarta Wombat
+:authors: Jakarta Wombat Team, https://projects.eclipse.org/projects/ee4j.wombat
+:email: https://dev.eclipse.org/mailman/listinfo/wombat-dev
+:version-label!:
+:sectanchors:
+:doctype: book
+:license: Eclipse Public License v2.0
+:source-highlighter: coderay
+:toc: left
+:toclevels: 4
+:sectnumlevels: 4
+ifdef::backend-pdf[]
+:pagenums:
+:numbered:
+:title-logo-image: image:wombat-1.png[pdfwidth=4.25in,align=right]
+endif::[]
+
+// == License
+
+include::license-epl2.adoc[]
+
+// == Wombat
+
+include::wombat.adoc[]
