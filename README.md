@@ -16,7 +16,7 @@ Run the full build:
 `mvn install`
 
 Locate the html files:
-- target/generated-docs/Wombat.html
+- `target/generated-docs/wombat-spec-<version>.html`
 
 Locate the PDF files:
-- target/generated-docs/Wombat.pdf
+- `target/generated-docs/wombat-spec-<version>.pdf`
